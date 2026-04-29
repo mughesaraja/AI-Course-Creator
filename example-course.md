@@ -16,31 +16,46 @@ By the end of this course, learners will be able to:
 
 # Course Structure
 **Module 1: Python Fundamentals**
+
 What is Python?
+
 Variables and Data Types
+
 Input and Output
 
 **Module 2: Control Flow**
 If Statements
+
 Comparison Operators
+
 Logical Operators
 
 **Module 3: Loops**
+
 For Loops
+
 While Loops
+
 Practice: Loop Challenges
 
 **Module 4: Functions**
+
 Defining Functions
+
 Parameters and Return Values
+
 Practice: Build a Simple Function
 
 # Example Lesson
+
 Lesson: Variables in Python
+
 **Learning Objective**
+
 By the end of this lesson, you will be able to create and use variables to store data in Python.
 
 **Explanation**
+
 Variables are used to store information that your program can use later. Each variable has a name and a value.
 In Python, you don’t need to declare a type — the type is automatically assigned based on the value.
 
