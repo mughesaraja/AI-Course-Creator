@@ -24,6 +24,9 @@ This system is designed for:
 
 It focuses on supporting users in creating structured, high-quality learning experiences rather than just generating content quickly.
 
+# Estimated Time
+5–10 minutes
+
 # Evaluation Approach
 
 Outputs are evaluated based on:
@@ -101,8 +104,11 @@ Create quizzes and applied exercises to reinforce learning.
 
 Step 4 — Refinement
 Improve clarity, depth, and engagement of generated content.
+
 Example Output (Summary)
+
 Course Topic: Introduction to Python
+
 Module 1: Fundamentals
 Module 2: Control Flow
 Module 3: Data Structures
@@ -122,6 +128,13 @@ Each lesson includes:
  - Instructional design principles can be effectively embedded into prompt logic
  - Iteration is essential — initial outputs require refinement
 
+# Limitations & Considerations
+
+- AI outputs can vary in quality depending on prompt input  
+- Some topics may require additional refinement for accuracy  
+- Human review is still important to ensure correctness and relevance  
+
+This system is designed to support course creation, not fully replace instructional design expertise.
 
 # Next Steps
 
@@ -133,7 +146,7 @@ Each lesson includes:
 **Why This Matters** 
 
 AI is accelerating course creation, but without strong learning design, quality can suffer.
-This project explores how combining:
+This system explores how combining:
  - AI capabilities
  - Instructional design thinking
  - Structured workflows can produce learning experiences that are both efficient to create and effective for learners.
