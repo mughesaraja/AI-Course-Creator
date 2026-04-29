@@ -11,6 +11,26 @@
 # Overview
 This project explores how AI can be used to generate structured online courses through prompt design. It focuses on building a repeatable workflow that improves the clarity and organisation of AI-generated learning content.
 
+# Intended User
+
+This system is designed for:
+- Course creators building online learning products  
+- Educators structuring digital courses  
+- Platforms looking to improve AI-assisted course creation workflows  
+
+It focuses on supporting users in creating structured, high-quality learning experiences rather than just generating content quickly.
+
+# Evaluation Approach
+
+Outputs are evaluated based on:
+
+- Clarity of explanations  
+- Logical progression of concepts  
+- Alignment with learning outcomes  
+- Use of practice and reinforcement  
+
+This helps ensure the generated content is not only correct, but also instructionally effective.
+
 # System Workflow
 
 The course generation process is broken into structured stages:
