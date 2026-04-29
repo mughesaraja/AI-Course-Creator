@@ -10,7 +10,7 @@
 
 # Overview
 
-This project explores how AI can be used to support structured, high-quality course creation by embedding learning design principles directly into prompt workflows.
+This system explores how AI can be used to support structured, high-quality course creation by embedding learning design principles directly into prompt workflows.
 
 # Intended User
 
@@ -58,7 +58,7 @@ This creates a gap between speed of creation and quality of learning.
 
 # Solution Approach
 
-This project reframes course generation as a multi-step system, rather than a single prompt.
+This system reframes course generation as a multi-step system, rather than a single prompt.
 The workflow breaks course creation into structured stages:
 1. Define learning outcomes
 2. Generate course structure (modules and lessons)
