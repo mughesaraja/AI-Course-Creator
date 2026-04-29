@@ -1,7 +1,7 @@
 # AI Course Creation System
 **Learning Experience Design × AI Prompt Engineering**
 
-# What this project demonstrates
+# What this system demonstrates
 
 - Translating instructional design principles into AI prompt logic  
 - Designing reusable workflows for AI-assisted course creation  
@@ -10,7 +10,10 @@
 
 # Overview
 
-This system explores how AI can be used to support structured, high-quality course creation by embedding learning design principles directly into prompt workflows.
+This system is designed to support structured, high-quality course creation by embedding learning design principles directly into prompt workflows.
+
+# Target Learner
+Beginner with no prior programming experience
 
 # Intended User
 
