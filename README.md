@@ -1,12 +1,33 @@
 # AI Course Creation System
 **Learning Experience Design × AI Prompt Engineering**
 
+# What this project demonstrates
+
+This project explores how AI can be used not just to generate content, but to support structured, high-quality learning design.
+
+It focuses on:
+- Designing reusable AI workflows for course creation  
+- Embedding instructional design principles into prompts  
+- Improving the clarity, consistency, and usefulness of AI-generated learning content  
+
 # Overview
 
 This project explores how AI can be used to generate structured, pedagogically sound online courses through carefully designed prompt workflows.
 
 Rather than treating AI as a generic content generator, this work focuses on building a repeatable system where instructional design principles are embedded directly into how content is generated.
 The aim is to improve the clarity, coherence, and learning effectiveness of AI-generated courses for creators.
+
+# System Workflow
+
+The course generation process is broken into structured stages:
+
+1. Define learning outcomes  
+2. Generate course structure (modules and lessons)  
+3. Generate lesson content  
+4. Create assessments  
+5. Refine outputs for clarity and quality  
+
+Each stage uses targeted prompts designed to guide the AI towards producing structured and pedagogically useful outputs.
 
 # Problem
 
@@ -98,6 +119,10 @@ This project explores how combining:
  - AI capabilities
  - Instructional design thinking
  - Structured workflows can produce learning experiences that are both efficient to create and effective for learners.
+
+# Key Idea
+
+The goal is not to generate content faster, but to design AI systems that produce better learning experiences.
 
 
 # Tech
