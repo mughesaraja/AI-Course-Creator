@@ -22,7 +22,10 @@ Include:
 - Worked example
 - Practice task
 
-Keep explanations clear and avoid unnecessary complexity.
+Ensure:
+- Explanations are concise and beginner-friendly  
+- Examples directly support understanding  
+- Content avoids unnecessary cognitive overload  
 
 Create 5 questions to test understanding of: [TOPIC]
 
