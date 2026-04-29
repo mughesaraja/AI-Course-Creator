@@ -34,3 +34,5 @@ Include:
 - Clear answers
 
 Focus on reinforcing key concepts.
+
+**Prompts are designed with constraints to guide output quality and reduce variability.**
