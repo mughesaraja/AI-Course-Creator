@@ -46,10 +46,15 @@ In Python, you don’t need to declare a type — the type is automatically assi
 
 **Example**
 age = 25
+
 name = "Ali"
+
 is_student = True
+
 age stores a number
+
 name stores text (a string)
+
 is_student stores a boolean value (True/False)
 
 **Try It Yourself**
@@ -62,11 +67,12 @@ is_student stores a boolean value (True/False)
 
 **Quick Check**
 What will this code store?
-
 city = "London"
 
 A) Number
+
 B) String
+
 C) Boolean
 
 # Mini Assessment
@@ -75,7 +81,9 @@ C) Boolean
 What is a variable in Python?
 
 Which of the following is correct?
+
 a) 5 = age
+
 b) age = 5
 
 What type of data is "Hello"?
@@ -87,7 +95,11 @@ Why are variables useful in programming?
 
 **Answers**
 A variable stores data that can be used in a program
+
 b) age = 5
+
 String
+
 Boolean (False)
+
 They allow you to store and reuse information
