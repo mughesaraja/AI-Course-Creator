@@ -3,19 +3,13 @@
 
 # What this project demonstrates
 
-This project explores how AI can be used not just to generate content, but to support structured, high-quality learning design.
-
-It focuses on:
-- Designing reusable AI workflows for course creation  
-- Embedding instructional design principles into prompts  
-- Improving the clarity, consistency, and usefulness of AI-generated learning content  
+- Translating instructional design principles into AI prompt logic  
+- Designing reusable workflows for AI-assisted course creation  
+- Improving consistency and structure of AI-generated outputs  
+- Thinking about AI as part of a learning product, not just a content tool   
 
 # Overview
-
-This project explores how AI can be used to generate structured, pedagogically sound online courses through carefully designed prompt workflows.
-
-Rather than treating AI as a generic content generator, this work focuses on building a repeatable system where instructional design principles are embedded directly into how content is generated.
-The aim is to improve the clarity, coherence, and learning effectiveness of AI-generated courses for creators.
+This project explores how AI can be used to generate structured online courses through prompt design. It focuses on building a repeatable workflow that improves the clarity and organisation of AI-generated learning content.
 
 # System Workflow
 
