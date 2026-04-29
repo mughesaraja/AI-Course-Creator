@@ -9,7 +9,8 @@
 - Thinking about AI as part of a learning product, not just a content tool   
 
 # Overview
-This project explores how AI can be used to generate structured online courses through prompt design. It focuses on building a repeatable workflow that improves the clarity and organisation of AI-generated learning content.
+
+This project explores how AI can be used to support structured, high-quality course creation by embedding learning design principles directly into prompt workflows.
 
 # Intended User
 
